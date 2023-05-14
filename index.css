@@ -2,7 +2,7 @@
     padding: 0;
     margin:0;
     /* background-color: rgb(255, 255, 255); */
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 #BOX{
@@ -45,7 +45,7 @@
 .vihaan{
     height: 90%;
     width: 35%;
-    border: 0.2rem solid rgb(0, 0, 0);
+    border: 0.2rem solid rgb(255, 255, 255);
     border-radius: 1rem ;
     margin: 1rem;
     display: flex;
