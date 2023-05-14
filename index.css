@@ -7,7 +7,7 @@
 
 #BOX{
     
-    background-image: url('../img/city.jpg');
+    background-image: url('/city.jpg');
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 59%;
